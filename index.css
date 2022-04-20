@@ -372,6 +372,11 @@ header .move_head .head_2 img {
   width: 140px;
 }
 
+header .move_head .head_2 li a {
+  font-family: 'Song Myung', serif;
+  font-size: 20px;
+}
+
 header .move_head .scrollDown {
   z-index: 9;
   -webkit-transform: translate(-50%, -160px);

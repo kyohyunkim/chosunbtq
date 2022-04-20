@@ -136,7 +136,7 @@ header{
             }
         }
         .head_2{
-            font-family: 'Noto Sans KR', sans-serif;
+            font-family: 'Noto Sans KR', sans-serif; 
             font-family: 'Song Myung', serif;
             position:absolute;
             left:50%;top:0;
@@ -195,6 +195,7 @@ header{
             padding:30px 0;
             transform: translateX(-50%);
             img{width:140px;}
+            li{a{font-family: 'Song Myung', serif;font-size:20px;}} 
         }
         
     }
